@@ -1,0 +1,71 @@
+.name {
+	height:50px;
+	width: 125px;
+	background-color: blue;
+	color: white;
+	text-align: center;
+	line-height: 50px;
+	margin-left: 125px;
+	float:left;
+}
+.pages{
+	float: right;
+	margin-right:50px;
+	line-height: 50px;
+
+	
+}
+.top {
+	
+}
+.middle {
+	position:relative;
+	top:50px;
+	margin-left:40px;
+	margin-right:40px;
+	background-color: lightgray;
+	height: 400px;	
+	border:15px;
+	border-color: black;
+}
+.baldie {
+	
+	height:150px;
+	width:150px;
+	float:left;
+	
+}
+.bio {
+	position:absolute;
+	top:20px;
+	left:25px;
+	background-color: white;
+	height: 290px;
+	width: 260px;
+	clear: both;
+}
+.para {
+	height:280px;
+	width:250px;
+
+}
+p {
+	float:right;
+	word-wrap:normal;
+} 
+.connect {
+	position: absolute;
+	top:50px;
+	right:50px;
+	background-color:white;
+	height: 55px;
+	width: 100px;
+}
+h2, h3 {
+	text-align: center;
+}
+.copy {
+	position:relative;
+	top:55px;
+	text-align: center;
+}
