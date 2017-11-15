@@ -16,7 +16,13 @@
 	
 }
 .top {
-	
+
+}
+.message {
+	height: 100px;
+}
+.submit {
+	background-color: teal;
 }
 .middle {
 	position:relative;
