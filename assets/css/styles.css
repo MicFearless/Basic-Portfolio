@@ -8,6 +8,10 @@
 	margin-left: 125px;
 	float:left;
 }
+.name :hover{
+	background-color:white;
+	color:teal;
+}
 .pages{
 	float: right;
 	margin-right:50px;
@@ -73,6 +77,10 @@ p {
 	height: 80px;
 	width: 175px;
 }
+.connect :hover {
+	background-color:teal;
+	color:white;
+}
 h2, h3 {
 	text-align: center;
 	color:teal;
@@ -100,6 +108,9 @@ h2, h3 {
 	border: 2.5px;
 	border-top-style:solid;
 	border-color:grey;
+}
+.images :hover {
+	background-color:white;
 }
 .emoji {
 	width:50px;
