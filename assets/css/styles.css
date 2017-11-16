@@ -108,14 +108,14 @@ h2, h3 {
 	display:none;
 	width:280px;
 }
-span:hover + .hov {
+.span1:hover + .hov {
 	display:block;
 }
-span {
+.span1 {
 	position:absolute;
 	top:20px;
 	left:325px;
-	padding:20px;
+	padding:5px;
 	color:teal;
 	background-color:white;
 }
@@ -126,6 +126,28 @@ span {
 	border:2.5px;
 	border-style:solid;
 	border-color:black;
+}
+.span2 {
+	position:absolute;
+	top:50px;
+	left:331px;
+	padding:5px;
+	color:teal;
+	background-color:white;
+}
+.span2:hover + .hobbies {
+	display:block;
+}
+.hobbies {
+	position:absolute;
+	top:104px;
+	left:340px;
+	background-color:teal;
+	padding:10px;
+	display:none;
+	width:280px;
+	color:white;
+	text-align:center;
 }
 .images {
 	height:50px;
